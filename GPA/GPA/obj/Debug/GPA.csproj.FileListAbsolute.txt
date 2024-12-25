@@ -1,0 +1,7 @@
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\bin\Debug\GPA.exe.config
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\bin\Debug\GPA.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\bin\Debug\GPA.pdb
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\obj\Debug\GPA.csproj.AssemblyReference.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\obj\Debug\GPA.csproj.CoreCompileInputs.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\obj\Debug\GPA.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\GPA\GPA\obj\Debug\GPA.pdb
