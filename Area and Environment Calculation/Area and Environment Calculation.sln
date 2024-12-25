@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area and Environment Calculation", "Area and Environment Calculation\Area and Environment Calculation.csproj", "{BA63E645-470F-4878-BB12-E904BE7AB1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA63E645-470F-4878-BB12-E904BE7AB1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA63E645-470F-4878-BB12-E904BE7AB1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA63E645-470F-4878-BB12-E904BE7AB1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA63E645-470F-4878-BB12-E904BE7AB1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F39D8EB-CF35-43C1-8FA5-497C69988776}
+	EndGlobalSection
+EndGlobal
