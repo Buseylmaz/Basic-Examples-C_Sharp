@@ -1,0 +1,7 @@
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\bin\Debug\KDV.exe.config
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\bin\Debug\KDV.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\bin\Debug\KDV.pdb
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\obj\Debug\KDV.csproj.AssemblyReference.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\obj\Debug\KDV.csproj.CoreCompileInputs.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\obj\Debug\KDV.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\KDV\KDV\obj\Debug\KDV.pdb
