@@ -1,0 +1,10 @@
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\bin\Debug\Checkerboard.exe.config
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\bin\Debug\Checkerboard.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\bin\Debug\Checkerboard.pdb
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.csproj.AssemblyReference.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.Form1.resources
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.Properties.Resources.resources
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.csproj.GenerateResource.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.csproj.CoreCompileInputs.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Checkerboard\Checkerboard\obj\Debug\Checkerboard.pdb
