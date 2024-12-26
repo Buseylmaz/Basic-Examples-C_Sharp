@@ -1,0 +1,7 @@
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\bin\Debug\ShoppingMallProgram.exe.config
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\bin\Debug\ShoppingMallProgram.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\bin\Debug\ShoppingMallProgram.pdb
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\obj\Debug\ShoppingMallProgram.csproj.AssemblyReference.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\obj\Debug\ShoppingMallProgram.csproj.CoreCompileInputs.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\obj\Debug\ShoppingMallProgram.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\ShoppingMallProgram\ShoppingMallProgram\obj\Debug\ShoppingMallProgram.pdb
