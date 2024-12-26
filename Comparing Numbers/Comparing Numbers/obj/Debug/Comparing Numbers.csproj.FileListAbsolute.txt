@@ -1,0 +1,7 @@
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\bin\Debug\Comparing Numbers.exe.config
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\bin\Debug\Comparing Numbers.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\bin\Debug\Comparing Numbers.pdb
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\obj\Debug\Comparing Numbers.csproj.AssemblyReference.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\obj\Debug\Comparing Numbers.csproj.CoreCompileInputs.cache
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\obj\Debug\Comparing Numbers.exe
+C:\Users\bsylm\Desktop\Basic Examples C_Sharp\Basic-Examples-C_Sharp\Comparing Numbers\Comparing Numbers\obj\Debug\Comparing Numbers.pdb
