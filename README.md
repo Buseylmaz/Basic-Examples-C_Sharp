@@ -1,3 +1,3 @@
 # **Basic Examples C#**
 
-Applications containing 100 basic-level examples.
+100 basic-level C# project and form application examples.
